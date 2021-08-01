@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "aspnet-ARB-20210202110132"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+.modal-body {
+    position: relative;
+    flex: 1 1 auto;
+    padding: 0rem;
+}
+.modal-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content:center;
+    padding: 0.2rem;
+    border-bottom: 0 solid #e9ecef;
+    border-top-left-radius: 0.4375rem;
+    border-top-right-radius: 0.4375rem;
+    // width: fit-content;
+    background-color: rgb(255, 51, 82);
+}
+.modal-dialog {
+ 
+    width: 360px;
+  }
+  .error-message{
+    font-size: 11px;
+    color: red
+  }
+input.ng-invalid.ng-touched[_ngcontent-urw-c104] {
+    border: 1px solid red;
+}
