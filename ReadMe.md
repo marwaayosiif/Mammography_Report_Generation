@@ -12,6 +12,14 @@ Demo for our website
 <!-- ![](./ReadMe/Demo.mp4) -->
 
 <figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="./ReadMe/schema.png">
+    <source src="./ReadMe/Demo.mp4" type="video/mp4">
+    <!-- <source src="path/to/video.ogg" type="video/ogg">
+    <source src="path/to/video.webm" type="video/webm"> -->
+  </video>
+</figure>
+
+<figure class="video_container">
   <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
