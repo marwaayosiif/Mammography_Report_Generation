@@ -11,6 +11,7 @@ Demo for our website
 
 <!-- ![](./ReadMe/Demo.mp4) -->
 
+[![Watch the video]](./ReadMe/Demo.mp4)
 
   <video controls="true" allowfullscreen="true">
     <source src="./ReadMe/Demo.mp4" type="video/mp4">
