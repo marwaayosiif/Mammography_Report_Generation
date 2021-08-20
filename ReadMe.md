@@ -13,9 +13,9 @@ Demo for our website
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="./ReadMe/schema.png">
-    <source src="./ReadMe/Demo.mp4">
-    <!-- <source src="path/to/video.ogg" type="video/ogg">
-    <source src="path/to/video.webm" type="video/webm"> -->
+    <source src="./ReadMe/Demo.mp4" type="video/mp4">
+    <source src="./ReadMe/Demo.ogg" type="video/ogg">
+    <source src="./ReadMe/Demo.webm" type="video/webm">
   </video>
 </figure>
 
