@@ -13,18 +13,11 @@ Demo for our website
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="./ReadMe/schema.png">
-    <source src="./ReadMe/Demo.mp4" type="video/mp4">
+    <source src="./ReadMe/Demo.mp4">
     <!-- <source src="path/to/video.ogg" type="video/ogg">
     <source src="path/to/video.webm" type="video/webm"> -->
   </video>
 </figure>
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1gJlE3yskmN6LjUDZWJenRXtGzbzJRKBN/view" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
 we deploy our application to Microsoft Azure App Service and our database to Microsoft Azure SQL Database. Finally, This project was technically sponsored by DilenyTech LLC and funded by Academy of scientific Research & Technology (15,200 EGP) and ITIDA (10,000 EGP)
