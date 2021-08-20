@@ -11,12 +11,7 @@ Demo for our website
 
 <!-- ![](./ReadMe/Demo.mp4) -->
 
-[![Watch the video]](./ReadMe/Demo.mp4)
+[The demo Video link to be downloaded](./ReadMe/Demo.mp4)
 
-  <video controls="true" allowfullscreen="true">
-    <source src="./ReadMe/Demo.mp4" type="video/mp4">
-    <source src="./ReadMe/Demo.ogg" type="video/ogg">
-    <source src="./ReadMe/Demo.webm" type="video/webm">
-  </video>
 
 we deploy our application to Microsoft Azure App Service and our database to Microsoft Azure SQL Database. Finally, This project was technically sponsored by DilenyTech LLC and funded by Academy of scientific Research & Technology (15,200 EGP) and ITIDA (10,000 EGP)
